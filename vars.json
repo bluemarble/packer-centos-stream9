@@ -1,0 +1,7 @@
+{
+    "iso_url": "{{ user `home` }}/sandbox/ISO/CentOS-Stream-9-20220310.0-x86_64-dvd1.iso",
+    "iso_checksum": "f69c014acde897bc1c61295d38a7a5f2faa27f95",
+    "kickstart": "ks.cfg",
+    "guest_os_type": "rhel8-64",
+    "disk_adapter_type": "nvme"
+}
